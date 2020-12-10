@@ -1,4 +1,4 @@
-name: Update gist
+name: Configure my work time
 on:
   push:
     branches:
